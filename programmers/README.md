@@ -1,5 +1,7 @@
 # 프로그래머스 SQL 문제
 
+프로그래머스에서 주어진 SQL 문제를 진행해봤습니다.
+
 [문제풀이 링크](https://programmers.co.kr/learn/challenges)
 
 ---
